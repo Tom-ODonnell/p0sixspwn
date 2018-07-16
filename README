@@ -1,8 +1,15 @@
 p0sixspwn
 =========
 
-Released under LGPL licensing. Please don't be a dick.
+My fork of p0sixspwn. Will probably be *the* p0sixspwn used in a cool project I took over.
 
-Thank you.
+Planned mods:
+- Echo message on verbose boot (probably ascii text image)
+- Maybe other stuff
+
+This is just mainly for me to play with :)
+
+
+Released under LGPL licensing. 
 
 
